@@ -1,8 +1,5 @@
 # VPS Network Optimization using BBR/LotServer
 
-VPS Network optimization speeds up one-click script
-------------------
-
 Supported Systems
 Centos 6+ / Debian 7+ / Ubuntu 14+
 BBR magic modification does not support Debian 8
